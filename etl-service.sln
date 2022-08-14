@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "etl-service", "etl-service\etl-service.csproj", "{B5CC9CB9-A717-46DD-ADD9-C394E97BD273}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5CC9CB9-A717-46DD-ADD9-C394E97BD273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5CC9CB9-A717-46DD-ADD9-C394E97BD273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5CC9CB9-A717-46DD-ADD9-C394E97BD273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5CC9CB9-A717-46DD-ADD9-C394E97BD273}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F417AB9E-05FC-4A18-B324-68C92B8AC5CE}
+	EndGlobalSection
+EndGlobal
